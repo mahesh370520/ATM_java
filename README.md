@@ -1,41 +1,34 @@
-#💳 ATM Simulation in Java\
+# 💳 ATM Simulation in Java
 
-##📌 Overview
-A console-based ATM simulation program built in Java. It allows users to perform basic banking operations like deposits, withdrawals, and balance inquiries, while practicing object-oriented programming concepts.
+## 📌 Overview
+This project is a simple **ATM simulation program** built in Java.  
+It allows users to perform basic banking operations such as deposits, withdrawals, and balance inquiries, while practicing **object-oriented programming concepts**.
 
-##🚀 Features
-🔐 PIN authentication for account security
+## 🚀 Features
+- 🔐 PIN authentication for account security  
+- 💰 Deposit money into account  
+- 💸 Withdraw money with validation  
+- 📊 Check current balance  
+- ⚡ Console-based user interface  
 
-💰 Deposit money into account
+## 🛠️ Tech Stack
+- **Java**  
+- **Object-Oriented Programming (OOP)** principles  
+- Input handling & validation  
 
-💸 Withdraw money with validation
+## 🎯 Learning Outcomes
+- Applying OOP to real-world systems  
+- Handling user input and errors gracefully  
+- Designing functional console applications  
 
-📊 Check current balance
+## 📂 How to Run
+1. Clone the repository  
+2. Compile the Java files using:
+   ```bash
+   javac ATM.java
+   java ATM ```
 
-⚡ Simple console-based interface
+   
 
-##🛠️ Tech Stack
-Java
 
-Object-Oriented Programming (OOP) principles
 
-Input handling & validation
-
-##🎯 Learning Outcomes
-Applying OOP to real-world systems
-
-Handling user input and errors
-
-Designing functional console applications
-
-##📂 How to Run
-Clone the repository
-
-Compile the Java files using javac
-
-Run the program with java ATM
-
-Interact with the menu-driven console
-
-##✨ Takeaway
-This project demonstrates how even small simulations can teach big lessons in problem-solving, design thinking, and system modeling.
